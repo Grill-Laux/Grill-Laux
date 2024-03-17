@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Grill-Laux
+- 👋 Hi, I’m gl
 - 👀 I’m interested in Android.
 - 🌱 I’m currently learning C++,Java.
 - 📫 How to reach me
   QQ: 3542151614
-  Telegram: @gl
+  Telegram: @gluwu1
 - 😄 Pronouns: gl
 - ⚡ Fun fact: 4.19 kernel for fajita will come!
 
